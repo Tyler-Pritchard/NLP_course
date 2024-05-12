@@ -1,7 +1,7 @@
 # vector db folders
 db/
 env/
-activate/*
+activate/
 
 # config files
 *.toml
